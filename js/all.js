@@ -238,8 +238,8 @@ $( function() {
       $(".head, .eyes1, .nose1, .mouth1, .patterns").addClass("op");
   }, 100);
   });
-});
- // кнопка заново
+})
+ // again
 $(function(){
     $(".restart").bind('click', function(e){
         $(".handl").addClass("handl1");
@@ -259,7 +259,7 @@ $(function(){
      }, 1500);
 		});
 });
-// всплывалка
+// ы
 $( function() {
     $( document ).tooltip({
       position: {
