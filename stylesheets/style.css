@@ -1,0 +1,8 @@
+@import 'reset.css';
+@import 'content.css';
+@import 'layout.css';
+@import 'responsive.css';
+@font-face {
+   font-family: "MultiTypePixel";
+   src: url(../fonts/MultiTypePixel-Display.otf) format("truetype");
+  }
